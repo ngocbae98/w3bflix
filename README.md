@@ -1,5 +1,5 @@
 # w3bflix
-Auto bot for w3bflix on Telegram credit by dancay
+Autobot for w3bflix on Telegram credit by dancay
 
 npm install
 
